@@ -1,5 +1,7 @@
 package com.secondtestgit;
 
+import java.sql.SQLOutput;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -7,5 +9,7 @@ public class Main {
         System.out.println("Hello world");
         System.out.println("This my first stable version on my program");
         System.out.println("I learn to work with Git and GitHub");
+        System.out.println("It's my first feature");
+        
     }
 }
