@@ -14,6 +14,7 @@ public class Main {
         System.out.println("Test feature is good");
         System.out.println("New sable version 3");
         System.out.println("Test version 4");
+        System.out.println("Release version 4");
 
         }
 }
