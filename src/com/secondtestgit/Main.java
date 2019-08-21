@@ -12,6 +12,7 @@ public class Main {
         System.out.println("It is second Stable version.");
         System.out.println("It's my first feature");
         System.out.println("Test feature is good");
+        System.out.println("New sable version 3");
 
         }
 }
