@@ -10,6 +10,8 @@ public class Main {
         System.out.println("This my first stable version on my program");
         System.out.println("I learn to work with Git and GitHub");
         System.out.println("It's my first feature");
+        System.out.println("Test feature is good");
+
         
     }
 }
